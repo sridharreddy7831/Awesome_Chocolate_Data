@@ -15,6 +15,7 @@ This project focuses on visualizing and analyzing sales data of a fictional choc
 - Added data-driven charts and graphs for storytelling and insights.
 
 ---
+![Awesome Chocolate Data_page](https://github.com/user-attachments/assets/560765e2-7684-46d5-98a4-4519def5b7a2)
 
 ## 🔍 Key Insights
 
